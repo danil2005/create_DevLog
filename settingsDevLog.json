@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "firmware_1",
+        "Name_board": "board_1",
+        "Module": "module_1",
+        "MCU": "MCU_1",
+        "Start": "0x0",
+        "End": "0x100",
+        "Start_boot": "0x200",
+        "End_boot": "0x300",
+        "Folder": "folder_1"
+    },
+    {
+        "Name": "firmware_2",
+        "Name_board": "board_2",
+        "Module": "module_1",
+        "MCU": "MCU_1",
+        "Start": "0x0",
+        "End": "0x100",
+        "Start_boot": "0x200",
+        "End_boot": "0x300",
+        "Folder": "folder_1"
+    },
+    {
+        "Name": "firmware_3",
+        "Name_board": "board_3",
+        "Module": "module_1",
+        "MCU": "MCU_1",
+        "Start": "0x0",
+        "End": "0x100",
+        "Start_boot": "0x200",
+        "End_boot": "0x300",
+        "Folder": "folder_1"
+    },
+    {
+        "Name": "firmware_4",
+        "Name_board": "board_4",
+        "Module": "module_2",
+        "MCU": "MCU_2",
+        "Start": "0x0",
+        "End": "0x100",
+        "Start_boot": "0x200",
+        "End_boot": "0x300",
+        "Folder": "folder_1"
+    },
+    {
+        "Name": "firmware_5",
+        "Name_board": "board_5",
+        "Module": "module_2",
+        "MCU": "MCU_2",
+        "Start": "0x0",
+        "End": "0x100",
+        "Start_boot": "0x200",
+        "End_boot": "0x300",
+        "Folder": "folder_2"
+    },
+    {
+        "Name": "firmware_6",
+        "Name_board": "board_6",
+        "Module": "module_2",
+        "MCU": "MCU_3",
+        "Start": "0x0",
+        "End": "0x100",
+        "Start_boot": "0x200",
+        "End_boot": "0x300",
+        "Folder": "folder_3"
+    },
+    {
+        "Name": "firmware_7",
+        "Name_board": "board_7",
+        "Module": "module_3",
+        "MCU": "MCU_3",
+        "Start": "0x0",
+        "End": "0x100",
+        "Start_boot": "0x200",
+        "End_boot": "0x300",
+        "Folder": "folder_3"
+    },
+    {
+        "Name": "firmware_8",
+        "Name_board": "board_8",
+        "Module": "module_3",
+        "MCU": "MCU_3",
+        "Start": "0x0",
+        "End": "0x100",
+        "Start_boot": "0x200",
+        "End_boot": "0x300",
+        "Folder": "folder_4"
+    },
+    {
+        "Name": "firmware_9",
+        "Name_board": "board_9",
+        "Module": "module_3",
+        "MCU": "MCU_3",
+        "Start": "0x0",
+        "End": "0x100",
+        "Start_boot": "0x200",
+        "End_boot": "0x300",
+        "Folder": "folder_4"
+    },
+    {
+        "Name": "firmware_10",
+        "Name_board": "board_10",
+        "Module": "module_3",
+        "MCU": "MCU_4",
+        "Start": "0x0",
+        "End": "0x100",
+        "Start_boot": "0x200",
+        "End_boot": "0x300",
+        "Folder": "folder_4"
+    }
+]
